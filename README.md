@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GuyMcGee
-- 👀 I’m interested in ... all coding
-- 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ... any open-source project
-- 📫 How to reach me ... Xanga
+- 🌱 I’m currently learning C#
+- 💼 I'm interning with Grizzhoot
+- 💞️ I’m looking to collaborate on open-source projects
 
 <!---
 GuyMcGee/GuyMcGee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
