@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adam
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning JavaScript
 - 💼 I'm interning with Grizzhoot LLC
 - 💞️ I’m looking to collaborate on open-source projects
 
