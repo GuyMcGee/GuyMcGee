@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam
 - 🌱 I’m currently learning JavaScript
-- 💼 I'm looking for the next exciting opportunity
+- 💼 I'm working on my NAS
 - 💞️ I want to collaborate on open-source projects
 
 <!---
