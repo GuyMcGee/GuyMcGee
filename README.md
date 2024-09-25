@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adam
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently improving on my SQL
 - 💼 I'm working on setting up my home's NAS system
 - 💞️ I want to collaborate on open-source projects
 
